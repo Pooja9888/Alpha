@@ -1,0 +1,33 @@
+const images = {
+    googleIcon: require('../assets/images/google.png'),
+    facebookIcon: require('../assets/images/facebook.png'),
+    appleIcon: require('../assets/images/apple.png'),
+    profileImage: require('../assets/images/profile.png'),
+    logo: require('../assets/images/logo.png'),
+    logo1: require('../assets/images/logo1.png'),
+    logo2: require('../assets/images/logo2.png'),
+    profileName: require('../assets/images/profileName.png'),
+    backgroundImage: require('../assets/images/background.png'),
+    backRain: require('../assets/images/backRain.png'),
+    user: require('../assets/images/user.png'),
+    email: require('../assets/images/mail.png'),
+    mobile: require('../assets/images/mobile.png'),
+    password: require('../assets/images/password.png'),
+    run: require('../assets/images/run.png'),
+    backgroundImage: require('../assets/images/backgroundImage.png'),
+    menu: require('../assets/images/menu.png'),
+    notification: require('../assets/images/notification.png'),
+    arrow: require('../assets/images/arrow.png'),
+    downArrow: require('../assets/images/downArrow.png'),
+    forwardArrow: require('../assets/images/forwardArrow.png'),
+    profileImage1: require('../assets/images/profileImageHD.png'),
+    down: require('../assets/images/down.png'),
+    up: require('../assets/images/up.png'),
+    exchange: require('../assets/images/exchange.png'),
+    finalLogo: require('../assets/images/finalLogo.png'),
+    // forwardArrow: require('../assets/images/forwardArrow.png'),
+    // profileImage1: require('../assets/images/profileImageHD.png'),
+
+};
+
+export default images;
